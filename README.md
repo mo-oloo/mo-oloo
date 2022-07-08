@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in data structures and cybersecurity
-- 🌱 I’m currently learning data structures and algorithms
+- 👀 I’m interested in machine learning and artificial intelligence
+- 🌱 I’m currently learning python and data science frameworks
 - 📫 You can reach me at dviray58@gmail.com!
 
 <!---
