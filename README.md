@@ -3,7 +3,7 @@
 mo-oloo/mo-oloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-3rd year Applied Math and Computer Science student at the University of Houston. I am currently taking Nonlinear Dynamics, Advanced Linear Algebra, Computer Networks, and Software Development Practices.
+3rd year Applied Math and Computer Science student at the University of Houston.
 
 My interests are (both in research and as a hobby):
 - **Mathematical Modeling**
